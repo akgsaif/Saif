@@ -1,3 +1,3 @@
 print("Hello")
-name=input("Enter ypur name")
+name: str=input("Enter ypur name")
 print("Your name is "+name)
